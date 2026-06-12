@@ -7,6 +7,5 @@ This repository contains organization wide standards and templates for GitHub re
 ```
 .
 ├── github-templates # templates for repository Issues, PRs, etc.
-├── guidelines # standards for git, code, and repository metadata
-└── logos # official logo designs (in the SVG format)
+└── guidelines # standards for git, code, and repository metadata
 ```
